@@ -34,8 +34,8 @@ Bot para gerenciamento de compromissos com lembretes automáticos via Telegram. 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/CarlosNiz/bot-telegram-compromissos.git
+cd bot-telegram-compromissos
 ```
 
 ### 2. Configure as variáveis de ambiente
